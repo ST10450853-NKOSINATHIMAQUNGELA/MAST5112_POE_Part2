@@ -67,6 +67,6 @@ const styles = StyleSheet.create({
 
     menuItem: {
       
-      fontSize: 15,
+      fontSize: 20,
     },
   });
